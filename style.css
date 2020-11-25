@@ -1,0 +1,25 @@
+body {
+	background: #313131;
+}
+main {
+	font-size: 250%;
+	font-weight: bold;
+	line-height: 2;
+	text-transform: uppercase;
+
+	display: flex;
+	max-width: 90%;
+	margin: 0 auto;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	color: #c4bbf0;
+}
+
+#toDoToday {
+	font-size: 50%;
+	font-weight: normal;
+	line-height: 1.1;
+	text-transform: none;
+
+}
